@@ -1,0 +1,6 @@
+/target/
+bin/
+ext-lib/
+/bin/
+*/.settings
+*.settings

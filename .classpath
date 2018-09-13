@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="ext-lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="ext-lib/atlassian-event-2.3.5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/atlassian-httpclient-api-0.23.0.jar"/>
+	<classpathentry kind="lib" path="ext-lib/atlassian-httpclient-plugin-0.23.0.jar"/>
+	<classpathentry kind="lib" path="ext-lib/atlassian-util-concurrent-2.4.2.jar"/>
+	<classpathentry kind="lib" path="ext-lib/fugue-2.6.1.jar"/>
+	<classpathentry kind="lib" path="ext-lib/guava-10.0.1.jar"/>
+	<classpathentry kind="lib" path="ext-lib/httpasyncclient-4.1.jar"/>
+	<classpathentry kind="lib" path="ext-lib/httpasyncclient-cache-4.1.jar"/>
+	<classpathentry kind="lib" path="ext-lib/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="ext-lib/httpclient-cache-4.4.1.jar"/>
+	<classpathentry kind="lib" path="ext-lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="ext-lib/httpcore-nio-4.4.1.jar"/>
+	<classpathentry kind="lib" path="ext-lib/httpmime-4.1.2.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jackson-core-asl-1.5.5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jackson-jaxrs-1.5.5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jackson-mapper-asl-1.5.5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jackson-xc-1.5.5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="ext-lib/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jcl-over-slf4j-1.5.6.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jersey-client-1.5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jersey-common-2.27.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jersey-core-1.5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jersey-json-1.5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jira-rest-java-client-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="ext-lib/jira-rest-java-client-core-4.0.0.jar" sourcepath="C:/Users/amalia.nemes/.m2/repository/com/atlassian/jira/jira-rest-java-client-core/4.0.0/jira-rest-java-client-core-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="ext-lib/joda-time-1.6.jar"/>
+	<classpathentry kind="lib" path="ext-lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="ext-lib/org.eclipse.swt_3.107.0.v20180611-0422.jar"/>
+	<classpathentry kind="lib" path="ext-lib/org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar"/>
+	<classpathentry kind="lib" path="ext-lib/org.eclipse.swt.win32.win32.x86_64.source_3.107.0.v20180611-0422.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-archiver-2.6.3.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-classworlds-2.2.3.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-compiler-api-2.8.2.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-compiler-manager-2.8.2.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-component-annotations-1.6.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-container-default-1.5.5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-digest-1.0.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-interactivity-api-1.0-alpha-4.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-interactivity-jline-1.0-alpha-5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-interpolation-1.15.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-io-2.1.3.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-resources-1.0-alpha-7.jar"/>
+	<classpathentry kind="lib" path="ext-lib/plexus-utils-3.0.20.jar"/>
+	<classpathentry kind="lib" path="ext-lib/sal-api-3.0.3.jar" sourcepath="ext-lib/sal-api-3.0.3.jar"/>
+	<classpathentry kind="lib" path="ext-lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="ext-lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="ext-lib/spring-beans-2.5.6.jar"/>
+	<classpathentry kind="lib" path="ext-lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="ext-lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="ext-lib/sal-api-4.0.0-47b258a9.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
